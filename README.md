@@ -1,114 +1,58 @@
-<h1 align="center">Hey, I'm Adeel 👋</h1>
-<h3 align="center">Cloud & DevOps Engineer · AWS · Terraform · Kubernetes</h3>
+<h1 align="center">Hi 👋, I'm Adeel</h1>
+<h3 align="center">🚀 Trainee DevOps Engineer | AWS | Terraform | Docker</h3>
 
-<br/>
+<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
----
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Adeel&label=Profile%20views&color=0e75b6&style=flat" alt="Adeel" /> 
+</p>
 
-## About Me
+- 🌱 Currently learning: **Advanced DevOps (Kubernetes, Terraform, CI/CD)**
+- 🔧 Working on: **Real-world cloud & automation projects**
+- 🎯 Goal: **Get a Principles/Team-Lead DevOps Tittle**
+- 📫 How to reach me: **adeel.tech10@gmail.com**
 
-Cloud & DevOps engineer focused on AWS infrastructure, Infrastructure as Code, and production-grade deployments. I build end-to-end systems — from VPC design to CI/CD pipelines — using Terraform, Docker, and GitHub Actions.
-
----
-
-## Tech Stack
-
-| Domain | Tools |
-|--------|-------|
-| **Cloud** | AWS (ECS Fargate, EKS, EC2, S3, CloudFront, Lambda, EventBridge, Secrets Manager, ALB) |
-| **IaC** | Terraform · Terraform Modules |
-| **Containers** | Docker · Docker Compose · Kubernetes |
-| **CI/CD** | GitHub Actions |
-| **Observability** | SigNoz · Zabbix · Grafana |
-| **Languages** | HCL · Python · JavaScript |
-
----
-
-## Featured Projects
-
-### 🚀 [Reyzi — Production Full-Stack App on AWS](https://github.com/adeel-aws/reyzi-infrastructure)
-
-> End-to-end AWS deployment of a React + Node.js/MongoDB app with full CI/CD automation
-
-- **Frontend** → S3 + CloudFront with Origin Access Control (OAC)
-- **Backend** → ECS Fargate + ALB with dual-listener mode (HTTP→HTTPS redirect)
-- **Secrets** → AWS Secrets Manager for all sensitive values; no secrets in code
-- **IaC** → Fully modular Terraform split across dedicated repos
-- **CI/CD** → GitHub Actions pipelines for both frontend and backend
-- Live at `adeeltech.bar`
-
-`Terraform` `ECS Fargate` `CloudFront` `S3` `ALB` `Secrets Manager` `GitHub Actions`
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/adeel__102/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/adeel-aws/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-### 📊 [SigNoz Monitoring Platform](https://github.com/adeel-aws/SigNoz-Monitoring-Platform) *(Private — Real Production Work)*
+<h3 align="left">Languages and Tools:</h3>
 
-> Centralized observability platform deployed in a company's AWS production environment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-- Architected and deployed a production SigNoz stack on AWS
-- Full metrics, traces, and logs pipeline for live services
-- Currently running in production
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-`SigNoz` `AWS` `Observability` `Production`
-
----
-
-### 📦 [Terraform Modules](https://github.com/adeel-aws/Terraform-Modules)
-
-> Reusable, production-style Terraform modules for AWS infrastructure
-
-- `eks` module — EKS cluster with security group injection, consistent naming conventions
-- `eks-addons` module — Helm-based cluster tooling (CoreDNS, VPC CNI, Kube Proxy, etc.)
-- Clean separation of concerns; designed for reuse across environments
-
-`Terraform` `EKS` `Kubernetes` `Helm` `HCL`
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-### 🔔 [AWS Resources Notifier](https://github.com/adeel-aws/AWS-Resources-Notifier)
+<h3 align="left">📊 GitHub Stats:</h3>
 
-> Serverless resource monitoring — auto-notifies your Slack channel daily
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adeel-aws&show_icons=true&theme=tokyonight" alt="adeel-aws" />
+</p>
 
-- Lambda triggered on schedule via EventBridge
-- Sends live AWS resource summaries to Slack automatically
-- Zero infrastructure to manage — fully serverless
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adeel-aws&theme=tokyonight" alt="adeel-aws" />
+</p>
 
-`Lambda` `EventBridge` `Python` `Serverless` `Slack`
-
----
-
-### 🔐 [OpenVPN Bridge](https://github.com/adeel-aws/OpenVPN-Bridge) · [ProxyBridge](https://github.com/adeel-aws/ProxyBridge-Terraform)
-
-> Secure private network access patterns on AWS
-
-- OpenVPN-based private EC2 access via Terraform
-- Squid proxy solution using Oxylabs for controlled outbound traffic
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adeel-aws&show_icons=true&layout=compact&theme=tokyonight" alt="adeel-aws" />
+</p>
 
 ---
 
-## 📌 Other Projects
-
-| Project | Description |
-|--------|-------------|
-| [React-nodejs-dockerized](https://github.com/adeel-aws/React-nodejs-dockerized) | Full-stack app containerized with Docker |
-| [Multi-tier-Dockerized](https://github.com/adeel-aws/Multi-tier-Dockerized) | Multi-tier architecture containerized with Docker Compose |
-| [Deploy-Static-webpage-on-EC2](https://github.com/adeel-aws/Deploy-Static-webpage-on-EC2) | EC2 static site with Terraform + GitHub Actions |
-| [Static-website-on-S3-using-terraform](https://github.com/adeel-aws/Static-website-on-S3-using-terraform) | S3 static hosting via Terraform IaC |
-| [ProxyBridge-Terraform](https://github.com/adeel-aws/ProxyBridge-Terraform) | Squid proxy on AWS for controlled outbound traffic via Oxylabs |
-| [ECS-Deployment-Terraform](https://github.com/adeel-aws/ECS-Deployment-Terraform) | ECS Fargate deployment with custom VPC module, variable-driven |
-
-
----
-
-<div align="center">
-
-*Open to Cloud/DevOps roles 
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeel-aws)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/adeel-aws)
+<h3 align="center">💡 “Automate everything, scale anything.” 🚀</h3>
