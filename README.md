@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning: **Advanced DevOps (Kubernetes, Terraform, CI/CD)**
 - 🔧 Working on: **Real-world cloud & automation projects**
-- 🎯 Goal: **Get a Principles/Team-Lead DevOps Tittle**
+- 🎯 Goal: Become a Principal DevOps Engineer and Technical Leader
 - 📫 How to reach me: **adeel.tech10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
