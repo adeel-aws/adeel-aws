@@ -1,56 +1,90 @@
 <h1 align="center">Hi 👋, I'm Adeel</h1>
-<h3 align="center">🚀 Trainee DevOps Engineer | AWS | Terraform | Docker</h3>
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
+<h3 align="center">
+Associate DevOps Engineer | Cloud Infrastructure | Automation | AWS | Azure
+</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Adeel&label=Profile%20views&color=0e75b6&style=flat" alt="Adeel" /> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/adeel-aws/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adeel.tech10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-- 🌱 Currently learning: **Advanced DevOps (Kubernetes, Terraform, CI/CD)**
-- 🔧 Working on: **Real-world cloud & automation projects**
-- 🎯 Goal: Become a **Principal DevOps Engineer and Technical Leader**
-- 📫 How to reach me: **adeel.tech10@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adeel-aws/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/adeel__102/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adeel-aws&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 👨‍💻 About Me
 
+I'm an **Associate DevOps Engineer** focused on cloud infrastructure, automation, CI/CD, containerization, and observability.
+
+I work with technologies across the DevOps lifecycle, including **AWS, Azure, Kubernetes, Docker, Terraform, GitHub Actions, Linux, Prometheus, and Grafana**.
+
+I focus on solving infrastructure and deployment challenges, streamlining CI/CD workflows, and building **reliable, scalable, and observable cloud infrastructure**.
+
+Continuously learning and exploring better approaches to cloud infrastructure, automation, and DevOps practices.
+
+---
+
+## ☁️ Cloud & DevOps
+
+### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+### Infrastructure & Containers
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 🛠️ What I Work On
+
+- ☁️ Cloud infrastructure and resource management
+- 🏗️ Infrastructure as Code with Terraform
+- 🐳 Containerization with Docker
+- ☸️ Kubernetes workloads and deployments
+- 🔄 CI/CD automation with GitHub Actions
+- 📊 Monitoring and observability with Prometheus & Grafana
+- 🐧 Linux system administration and automation
+- 🔐 Cloud infrastructure with security and reliability in mind
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adeel-aws&show_icons=true&theme=tokyonight" alt="adeel-aws" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeel-aws&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adeel-aws&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adeel-aws&theme=tokyonight" alt="adeel-aws" />
-</p>
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adeel-aws&show_icons=true&layout=compact&theme=tokyonight" alt="adeel-aws" />
+  <a href="https://www.linkedin.com/in/adeel-aws/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adeel.tech10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
